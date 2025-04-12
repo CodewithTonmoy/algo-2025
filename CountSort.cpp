@@ -1,14 +1,4 @@
-///////////////////////////////////////////////////////////////////////////
-// CountingSort.cpp                                                      //
-// ver 1.0                                                               //
-// Type:	source file                                              //
-// Language:    C++                                                      //
-// Platform:    Dell Alienware M14x, Win8                                //
-// Author:      Yu Zhang, Syracuse University                            //
-//              zyu.1106@gmail.com                                       //
-//		yzhan39@syr.edu                                          //
-// Description: http://www.yu-zhang.net/blog/2014/07/22/c-counting-sort///
-///////////////////////////////////////////////////////////////////////////
+
 
 #include <string>
 #include <iostream>
